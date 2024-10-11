@@ -1,0 +1,301 @@
+,text,sentiment
+0,Wonderful. Thank you. Keep up the great work!,positive
+1,You chose the wrong wire. You need to install the green wire.,negative
+2,I would like you to install the yellow wire.,neutral
+3,The yellow wire.,neutral
+4,No. that is not correct. Install the brown wire.,negative
+5,Thank you. Amazing.,positive
+6,Fantastic. Thank you.,positive
+7,You chose the wrong wire. You need to install the black wire.,negative
+8,"Sorry about that, install the brown wire.",neutral
+9,No. install the white wire.,negative
+10,Please install the purple wire.,neutral
+11,Thank you. Excellent. You're doing awesome!,positive
+12,No. install the orange wire.,negative
+13,Please install the white wire.,neutral
+14,Brilliant. Thank you.,positive
+15,No. that is not correct. Install the white wire.,negative
+16,The blue wire.,neutral
+17,Thank you. Wonderful.,positive
+18,The green wire.,neutral
+19,You chose the wrong wire. You need to install the green wire.,negative
+20,Outstanding. Thank you.,positive
+21,That is wrong. install the white wire.,negative
+22,The brown wire.,neutral
+23,Thank you. Incredible. You’ve got this!,positive
+24,Please install the purple wire.,neutral
+25,No. install the brown wire.,negative
+26,Amazing. Thank you.,positive
+27,That is wrong. install the red wire.,negative
+28,"Sorry about that, install the purple wire.",neutral
+29,Thank you. Fantastic. Keep going strong!,positive
+30,Excellent. Thank you.,positive
+31,Install the brown wire. The black wire is not the correct one.,negative
+32,"Sorry about that, install the brown wire.",neutral
+33,Thank you. Spectacular.,positive
+34,No. that is not correct. Install the red wire.,negative
+35,"Sorry about that, install the black wire.",neutral
+36,Impressive. Thank you.,positive
+37,No. that is not correct. Install the black wire.,negative
+38,The purple wire.,neutral
+39,"Sorry about that, install the yellow wire.",neutral
+40,No. install the white wire.,negative
+41,Thank you. Brilliant.,positive
+42,You chose the wrong wire. You need to install the gray wire.,negative
+43,Please install the brown wire.,neutral
+44,Superb. Thank you.,positive
+45,No. install the gray wire.,negative
+46,Please install the yellow wire.,neutral
+47,Thank you. Marvelous. Stay awesome!,positive
+48,I would like you to install the black wire.,neutral
+49,Install the gray wire. The black wire is not the correct one.,negative
+50,Incredible. Thank you.,positive
+51,"Sorry about that, install the orange wire.",neutral
+52,No. install the brown wire.,negative
+53,Thank you. Exceptional.,positive
+54,Awesome. Thank you.,positive
+55,No. that is not correct. Install the gray wire.,negative
+56,The blue wire.,neutral
+57,I would like you to install the black wire.,neutral
+58,You chose the wrong wire. You need to install the purple wire.,negative
+59,Thank you. Superb.,positive
+60,Phenomenal. Thank you. You’re doing great!,positive
+61,You chose the wrong wire. You need to install the white wire.,negative
+62,"Sorry about that, install the orange wire.",neutral
+63,Thank you. Great.,positive
+64,Install the gray wire. The orange wire is not the correct one.,negative
+65,"Sorry about that, install the blue wire.",neutral
+66,No. install the gray wire.,negative
+67,The gray wire.,neutral
+68,Magnificent. Thank you.,positive
+69,Install the orange wire. The yellow wire is not the correct one.,negative
+70,The red wire.,neutral
+71,Thank you. Awesome.,positive
+72,"Sorry about that, install the purple wire.",neutral
+73,You chose the wrong wire. You need to install the gray wire.,negative
+74,Thank you. Outstanding. Keep pushing forward!,positive
+75,Please install the blue wire.,neutral
+76,That is wrong. install the green wire.,negative
+77,Wonderful. Thank you.,positive
+78,Please install the black wire.,neutral
+79,Install the brown wire. The purple wire is not the correct one.,negative
+80,Thank you. Magnificent.,positive
+81,Amazing. Thank you.,positive
+82,You chose the wrong wire. You need to install the brown wire.,negative
+83,"Sorry about that, install the white wire.",neutral
+84,You chose the wrong wire. You need to install the purple wire.,negative
+85,I would like you to install the black wire.,neutral
+86,Thank you. Impressive.,positive
+87,You chose the wrong wire. You need to install the white wire.,negative
+88,Please install the white wire.,neutral
+89,Fantastic. Thank you. Stay amazing!,positive
+90,Thank you. Phenomenal.,positive
+91,That is wrong. install the blue wire.,negative
+92,I would like you to install the orange wire.,neutral
+93,I would like you to install the purple wire.,neutral
+94,You chose the wrong wire. You need to install the red wire.,negative
+95,Exceptional. Thank you.,positive
+96,Thank you. Superb.,positive
+97,No. that is not correct. Install the gray wire.,negative
+98,"Sorry about that, install the white wire.",neutral
+99,Thank you. Excellent.,positive
+100,You chose the wrong wire. You need to install the green wire.,negative
+101,I would like you to install the purple wire.,neutral
+102,Please install the orange wire.,neutral
+103,Install the yellow wire. The black wire is not the correct one.,negative
+104,Brilliant. Thank you. Keep up the excellent work!,positive
+105,Thank you. Wonderful.,positive
+106,No. that is not correct. Install the gray wire.,negative
+107,Please install the brown wire.,neutral
+108,I would like you to install the gray wire.,neutral
+109,That is wrong. install the brown wire.,negative
+110,Incredible. Thank you.,positive
+111,Thank you. Spectacular. You're on fire!,positive
+112,You chose the wrong wire. You need to install the yellow wire.,negative
+113,"Sorry about that, install the white wire.",neutral
+114,The red wire.,neutral
+115,Install the green wire. The orange wire is not the correct one.,negative
+116,Thank you. Magnificent.,positive
+117,You chose the wrong wire. You need to install the red wire.,negative
+118,The black wire.,neutral
+119,Fantastic. Thank you.,positive
+120,The purple wire.,neutral
+121,Install the white wire. The yellow wire is not the correct one.,negative
+122,Awesome. Thank you.,positive
+123,Install the purple wire. The white wire is not the correct one.,negative
+124,The gray wire.,neutral
+125,Thank you. Exceptional. You're doing fantastic!,positive
+126,You chose the wrong wire. You need to install the white wire.,negative
+127,"Sorry about that, install the purple wire.",neutral
+128,Spectacular. Thank you.,positive
+129,Thank you. Phenomenal.,positive
+130,No. that is not correct. Install the black wire.,negative
+131,The yellow wire.,neutral
+132,Great. Thank you.,positive
+133,No. install the orange wire.,negative
+134,The gray wire.,neutral
+135,That is wrong. install the white wire.,negative
+136,The purple wire.,neutral
+137,Thank you. Brilliant.,positive
+138,That is wrong. install the gray wire.,negative
+139,The white wire.,neutral
+140,Outstanding. Thank you. Keep shining!,positive
+141,Thank you. Superb.,positive
+142,No. install the black wire.,negative
+143,"Sorry about that, install the blue wire.",neutral
+144,I would like you to install the orange wire.,neutral
+145,That is wrong. install the gray wire.,negative
+146,Wonderful. Thank you.,positive
+147,The brown wire.,neutral
+148,That is wrong. install the red wire.,negative
+149,Thank you. Fantastic.,positive
+150,Install the red wire. The blue wire is not the correct one.,negative
+151,I would like you to install the green wire.,neutral
+152,Magnificent. Thank you.,positive
+153,You chose the wrong wire. You need to install the blue wire.,negative
+154,The blue wire.,neutral
+155,Thank you. Incredible.,positive
+156,The red wire.,neutral
+157,No. install the purple wire.,negative
+158,Amazing. Thank you. You're amazing too!,positive
+159,Thank you. Amazing.,positive
+160,Install the yellow wire. The green wire is not the correct one.,negative
+161,Please install the yellow wire.,neutral
+162,The red wire.,neutral
+163,No. install the white wire.,negative
+164,Exceptional. Thank you.,positive
+165,No. install the yellow wire.,negative
+166,Please install the brown wire.,neutral
+167,Thank you. Impressive. Keep up the hard work!,positive
+168,"Sorry about that, install the red wire.",neutral
+169,You chose the wrong wire. You need to install the blue wire.,negative
+170,Superb. Thank you.,positive
+171,Please install the brown wire.,neutral
+172,You chose the wrong wire. You need to install the green wire.,negative
+173,Thank you. Awesome.,positive
+174,No. that is not correct. Install the blue wire.,negative
+175,"Sorry about that, install the yellow wire.",neutral
+176,Spectacular. Thank you.,positive
+177,No. that is not correct. Install the purple wire.,negative
+178,"Sorry about that, install the purple wire.",neutral
+179,Thank you. Great.,positive
+180,Brilliant. Thank you. You’re crushing it!,positive
+181,No. that is not correct. Install the white wire.,negative
+182,Please install the black wire.,neutral
+183,Thank you. Exceptional.,positive
+184,No. that is not correct. Install the brown wire.,negative
+185,I would like you to install the purple wire.,neutral
+186,I would like you to install the orange wire.,neutral
+187,No. that is not correct. Install the blue wire.,negative
+188,Fantastic. Thank you.,positive
+189,Thank you. Marvelous.,positive
+190,That is wrong. install the black wire.,negative
+191,The brown wire.,neutral
+192,I would like you to install the orange wire.,neutral
+193,You chose the wrong wire. You need to install the green wire.,negative
+194,Marvelous. Thank you.,positive
+195,No. install the red wire.,negative
+196,I would like you to install the white wire.,neutral
+197,Thank you. Wonderful. You're making great progress!,positive
+198,Install the brown wire. The gray wire is not the correct one.,negative
+199,The red wire.,neutral
+200,Phenomenal. Thank you.,positive
+201,"Sorry about that, install the gray wire.",neutral
+202,That is wrong. install the purple wire.,negative
+203,Thank you. Spectacular.,positive
+204,"Sorry about that, install the yellow wire.",neutral
+205,No. install the red wire.,negative
+206,Awesome. Thank you.,positive
+207,Please install the brown wire.,neutral
+208,Install the brown wire. The orange wire is not the correct one.,negative
+209,Thank you. Fantastic. Keep up the momentum!,positive
+210,I would like you to install the yellow wire.,neutral
+211,That is wrong. install the purple wire.,negative
+212,Great. Thank you.,positive
+213,Please install the red wire.,neutral
+214,No. that is not correct. Install the brown wire.,negative
+215,Thank you. Brilliant.,positive
+216,You chose the wrong wire. You need to install the black wire.,negative
+217,Please install the yellow wire.,neutral
+218,Incredible. Thank you.,positive
+219,No. that is not correct. Install the green wire.,negative
+220,"Sorry about that, install the yellow wire.",neutral
+221,Thank you. Magnificent.,positive
+222,Superb. Thank you. You’re doing wonderfully!,positive
+223,No. that is not correct. Install the yellow wire.,negative
+224,I would like you to install the red wire.,neutral
+225,"Sorry about that, install the green wire.",neutral
+226,No. that is not correct. Install the yellow wire.,negative
+227,Thank you. Outstanding.,positive
+228,You chose the wrong wire. You need to install the blue wire.,negative
+229,I would like you to install the brown wire.,neutral
+230,Marvelous. Thank you.,positive
+231,I would like you to install the white wire.,neutral
+232,No. that is not correct. Install the orange wire.,negative
+233,Thank you. Impressive.,positive
+234,Exceptional. Thank you.,positive
+235,No. that is not correct. Install the black wire.,negative
+236,"Sorry about that, install the red wire.",neutral
+237,Thank you. Superb.,positive
+238,You chose the wrong wire. You need to install the gray wire.,negative
+239,The purple wire.,neutral
+240,Brilliant. Thank you. You're doing brilliantly!,positive
+241,You chose the wrong wire. You need to install the white wire.,negative
+242,The gray wire.,neutral
+243,The red wire.,neutral
+244,No. that is not correct. Install the green wire.,negative
+245,Thank you. Phenomenal.,positive
+246,Outstanding. Thank you.,positive
+247,You chose the wrong wire. You need to install the black wire.,negative
+248,The gray wire.,neutral
+249,Thank you. Amazing. Keep going!,positive
+250,No. that is not correct. Install the purple wire.,negative
+251,I would like you to install the purple wire.,neutral
+252,Fantastic. Thank you.,positive
+253,That is wrong. install the brown wire.,negative
+254,I would like you to install the white wire.,neutral
+255,You chose the wrong wire. You need to install the gray wire.,negative
+256,I would like you to install the red wire.,neutral
+257,Thank you. Wonderful. Keep being awesome!,positive
+258,The red wire.,neutral
+259,No. install the blue wire.,negative
+260,Magnificent. Thank you.,positive
+261,No. that is not correct. Install the blue wire.,negative
+262,The red wire.,neutral
+263,Thank you. Incredible. Keep up the great job!,positive
+264,Impressive. Thank you.,positive
+265,No. install the brown wire.,negative
+266,Please install the white wire.,neutral
+267,No. install the white wire.,negative
+268,"Sorry about that, install the red wire.",neutral
+269,Thank you. Exceptional. Keep reaching for the stars!,positive
+270,"Sorry about that, install the green wire.",neutral
+271,That is wrong. install the brown wire.,negative
+272,Phenomenal. Thank you.,positive
+273,Thank you. Great.,positive
+274,That is wrong. install the gray wire.,negative
+275,"Sorry about that, install the black wire.",neutral
+276,Superb. Thank you.,positive
+277,No. install the purple wire.,negative
+278,The white wire.,neutral
+279,You chose the wrong wire. You need to install the purple wire.,negative
+280,"Sorry about that, install the red wire.",neutral
+281,Thank you. Fantastic. You're unstoppable!,positive
+282,Amazing. Thank you.,positive
+283,You chose the wrong wire. You need to install the brown wire.,negative
+284,Please install the blue wire.,neutral
+285,Thank you. Spectacular. Keep up the fantastic work!,positive
+286,Install the brown wire. The orange wire is not the correct one.,negative
+287,"Sorry about that, install the brown wire.",neutral
+288,Outstanding. Thank you.,positive
+289,You chose the wrong wire. You need to install the red wire.,negative
+290,"Sorry about that, install the yellow wire.",neutral
+291,Thank you. Brilliant.,positive
+292,No. that is not correct. Install the yellow wire.,negative
+293,I would like you to install the gray wire.,neutral
+294,Wonderful. Thank you.,positive
+295,No. that is not correct. Install the yellow wire.,negative
+296,I would like you to install the white wire.,neutral
+297,No. that is not correct. Install the purple wire.,negative
+298,The orange wire.,neutral
+299,Thank you. Marvelous. You're doing a fantastic job!,positive
